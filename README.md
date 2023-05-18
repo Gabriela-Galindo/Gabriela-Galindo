@@ -4,7 +4,9 @@
 - 💻 Em transição de carreira para a área de tecnologia
 - 📚 Estudando desenvolvimento web
 - 😄 Pronomes: Ela/Dela
-- ⚡ Curiosidade sobre mim: tenho um gato chamado Gato 🐱
+
+### In English:
+- Hello, my name is Maria Gabriela, I'm from Brazil, currently transitioning careers to technology, studying Web Development. My pronouns are She/Her. 
 
 ### Stats
 <div>
@@ -34,7 +36,7 @@
  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />          
 </div>
 
-### Contato
+### Contato/ Contact Info
 <div style="display: inline_block" >
   <a href="https://www.linkedin.com/in/mariagabrielagalindo/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gabriela-Linkedin" />
